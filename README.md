@@ -23,3 +23,5 @@ python perlin_2d.py
 ```
 
 Move using arrows. 
+
+![perlin_2d.py window](doc/perlin_2d_0.png)
